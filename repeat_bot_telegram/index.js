@@ -3,7 +3,7 @@ var request = require('request');
 var info = new Object();
 
 info.url = 'https://api.telegram.org/bot';
-info.token = '165559212:AAEjOZsONlREVUR2s843Q2KgAQsLHgItaYQ';
+info.token = '157461474:AAHLIEwUqCuD6fFt3s8NOBQCyCSj9Pci92s';
 info.comandoUpdate = '/getUpdates';
 info.comandoSendMessage = '/sendMessage';
 info.comandoOffset = '?offset=';
